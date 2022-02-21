@@ -1,0 +1,21 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    height: 100%;
+    background-image: url("bgforproject\ \(1\).png");
+}
+
+.button {
+    background-color: #141414;
+    border: none;
+    color: white;
+    padding: 10px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.var{
+    font-size: 18px;
+}
